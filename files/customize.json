@@ -1,6 +1,7 @@
 {
   "name": "Assifa",
   "greetingText": "You know what the date is and what month it is",
+  "wishText": "wish you all the best in everything :)",
   "wishText": "Sorry I din't ask permission first when I took your photo",
   "imagePath": "img/photo.jpg"
 }
